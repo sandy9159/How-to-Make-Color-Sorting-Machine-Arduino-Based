@@ -4,9 +4,16 @@ In this tutorial i will show you how to make a simple color sorting machine mach
 
 In this project Color sensor detect the color of candy and generate output in this output sensor data transfer to arduino arduino will process those data according to code uploaded in it and command servo to move and sort color candy on basis of there color.
 
-Before we proceed further I would like to tell you about JLCPCB.COM.
+Before we proceed further I would like to tell you about [JLCPCB.COM](url)
 
-JLCPCB are the leader in PCB manufacturing they have a world class PCB production line, that ensure the fast and Quality PCB production in really very affordable rates. if you have any PCB need please try JLCPCB.COM
+
+[JLCPCB](url) are the leader in PCB manufacturing they have a world class PCB production line, that ensure the fast and Quality PCB production in really very affordable rates. if you have any PCB need please try [JLCPCB.COM](url)
+
+
+
+
+
+
 First watch the video of Machine
 
 Step 1: Video
